@@ -1,0 +1,53 @@
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\bin\Debug\StayAlive.exe
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\bin\Debug\StayAlive.pdb
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\bin\Debug\InputSimulator.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\bin\Debug\InputSimulator.pdb
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\bin\Debug\InputSimulator.xml
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\StayAlive.Form1.resources
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\StayAlive.Properties.Resources.resources
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\StayAlive.exe
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\StayAlive.pdb
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\bin\Debug\Interop.WMPLib.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\bin\Debug\AxInterop.WMPLib.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\Interop.WMPLib.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\AxInterop.WMPLib.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\StayAlive.csproj.ResolveComReference.cache
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\bin\Debug\Interop.DIRECTORSHOCKWAVELib.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\bin\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\bin\Debug\AxInterop.DIRECTORSHOCKWAVELib.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\zf297a\documents\visual studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\zf297a\Documents\Visual Studio 2010\Projects\StayAlive\StayAlive\bin\Debug\StayAlive.exe.manifest
+C:\Users\zf297a\Documents\Visual Studio 2010\Projects\StayAlive\StayAlive\bin\Debug\StayAlive.application
+C:\Users\zf297a\Documents\Visual Studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\StayAlive.exe.manifest
+C:\Users\zf297a\Documents\Visual Studio 2010\Projects\StayAlive\StayAlive\obj\x86\Debug\StayAlive.application
+C:\Users\zf297a\Documents\Visual Studio 2010\Projects\StayAlive\StayAlive\bin\Debug\StayAlive.exe.config
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\bin\Debug\StayAlive.exe.config
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\bin\Debug\StayAlive.exe.manifest
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\bin\Debug\StayAlive.application
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\bin\Debug\StayAlive.exe
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\bin\Debug\StayAlive.pdb
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\bin\Debug\Interop.WMPLib.dll
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\StayAlive.csproj.ResolveComReference.cache
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\StayAlive.Form1.resources
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\StayAlive.Properties.Resources.resources
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\StayAlive.csproj.GenerateResource.cache
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\StayAlive.csproj.CoreCompileInputs.cache
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\StayAlive.exe.manifest
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\StayAlive.application
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\StayAlive.exe
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\StayAlive.pdb
+C:\Users\zf297a\Documents\C#\StayAlive\StayAlive\StayAlive\obj\x86\Debug\StayAlive.csprojAssemblyReference.cache
